@@ -46,7 +46,7 @@
                                 Welcome to My Home Security. These Terms and Conditions (“Terms”) govern your use of our
                                 website, products, and services. By accessing or using our website or services, you agree to
                                 be bound by these Terms. If you do not agree with any part of these Terms, please do not use
-                                our services.
+                                our services..
                             </p>
                         </div>
 
