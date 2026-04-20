@@ -56,8 +56,8 @@
             <!-- Logo -->
             <img src="/frontend/my-img/new-logo.png" class="popup-logo" alt="Home Security">
 
-            <h3>Talk To Security Experts</h3>
-            <p>Get 3 Months Free Monitoring Services</p>
+            <h4>Talk to Security Experts & Protect What Matters Most</h4>
+            <!-- <p>Get 3 Months Free Monitoring Services</p> -->
 
             <!-- Call Button -->
             <a href="tel:+18558436011" class="butn border-0">
@@ -86,8 +86,7 @@
                         <div class="col-md-12 col-xs-12">
                             <div class="top-bar-info d-flex justify-content-center">
                                 <p class="mb-0 text-center">
-                                    <b>Limited Time Offer:</b> Talk To Our Security Experts & Get 3 Months Free
-                                    Monitoring Services
+                                    <b>Talk to Security Experts & Protect What Matters Most</b>
                                 </p>
                             </div>
                         </div>
