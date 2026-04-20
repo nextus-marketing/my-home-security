@@ -76,7 +76,7 @@
                             <p class="mb-0">
                                 By placing an order, you agree to pay the listed price and any applicable taxes or fees.
                                 Payments are processed through third-party providers, and My Home Security is not
-                                responsible for any issues arising from those providers.
+                                responsible for any issues arising from those providers..
                             </p>
                         </div>
 
